@@ -1,3 +1,3 @@
+My personal website, currently in development. But here is a quick snippet. 
 
-
-Hello world testing ? 
+Found at : https://parthnj.github.io/website
